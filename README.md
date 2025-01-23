@@ -29,18 +29,9 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy
-git clone https://github.com/yourusername/mini-cosmetic-ecommerce.git
-Navigate to the project directory:
 
-bash
-Copy
-cd mini-cosmetic-ecommerce
-Open index.html in your browser.
 
-Usage
-Browse through the available cosmetic products listed on the homepage.
+
 Click the "Add to Cart" button on any product to add it to your shopping cart.
 View your cart by clicking the "Cart" icon in the navigation.
 Modify the quantity or remove items from the cart.
