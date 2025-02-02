@@ -6,7 +6,7 @@ Responsive Design: The website adapts to different screen sizes (desktop, tablet
 Product Listing: A variety of cosmetic products are displayed with images, names, and prices.
 Shopping Cart: Users can add products to the cart and view the items added.
 Cart Functionality:
-Users can increase or decrease the quantity of items.
+Users can increase or decrease the quantity of items. 
 The cart updates dynamically to reflect the changes in price.
 Interactive UI: Smooth transitions and hover effects enhance the user experience.
 HTML: Used to structure the content of the website.
