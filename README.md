@@ -9,13 +9,9 @@ Cart Functionality:
 Users can increase or decrease the quantity of items.
 The cart updates dynamically to reflect the changes in price.
 Interactive UI: Smooth transitions and hover effects enhance the user experience.
-Basic Checkout Simulation: A simple checkout button simulates the process of completing an order.
-Technologies Used
 HTML: Used to structure the content of the website.
 CSS: Used to style the website, create a responsive layout, and add visual effects.
 JavaScript: Handles the interactive functionality such as adding products to the cart and updating the cart in real time.
-Installation
-To run this project locally, follow these steps:
 
 
 ![Screenshot 2025-01-23 030210](https://github.com/user-attachments/assets/c00cc2c9-4bc9-4e51-aaf0-c8aaf6a64d55)
