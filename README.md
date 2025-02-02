@@ -2,6 +2,7 @@
 This is a Mini Cosmetic E-commerce Clone built using HTML, CSS, and JavaScript. The project aims to replicate a basic e-commerce website focused on cosmetic products, allowing users to browse, add products to the cart, and view their selected items. The goal is to create a simple, responsive, and interactive website without integrating backend services or databases.
 
 #Features
+
 Responsive Design: The website adapts to different screen sizes (desktop, tablet, mobile) using CSS media queries.
 Product Listing: A variety of cosmetic products are displayed with images, names, and prices.
 Shopping Cart: Users can add products to the cart and view the items added.
