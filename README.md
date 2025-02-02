@@ -34,9 +34,5 @@ View your cart by clicking the "Cart" icon in the navigation.
 Modify the quantity or remove items from the cart.
 Simulate the checkout process by clicking the checkout button.
 Future Enhancements
-Integrating a backend to handle user authentication and order processing.
-Implementing a search feature to allow users to find products easily.
-Adding a payment gateway for real-world transactions.
-Enhancing product detail pages with descriptions, reviews, and ratings.
-License
-This project is open-source and available under the MIT License.
+
+This project is open-source and available under the MIT Licensel.
