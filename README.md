@@ -35,4 +35,3 @@ Modify the quantity or remove items from the cart.
 Simulate the checkout process by clicking the checkout button.
 Future Enhancements
 
-This project is open-source and available under the MIT Licensel.
